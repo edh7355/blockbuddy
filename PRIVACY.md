@@ -30,7 +30,7 @@ Zoals bij elke internetverbinding zien die diensten (je school, Spotify, GitHub)
 
 ## Feedback
 
-Via **Instellingen › Feedback sturen** opent je eigen mailprogramma, met het versienummer van de app en van je besturingssysteem al ingevuld. Je beslist zelf of je die mail verstuurt. De mail komt binnen bij iCloud Mail en wordt doorgestuurd naar Gmail. Wat je stuurt, gebruiken we alleen om je te antwoorden en de app te verbeteren. Daarbij helpt een AI-assistent (Claude van Anthropic) om feedback samen te vatten en verbeteringen voor te stellen. Verder delen we het met niemand, en we wissen het als je dat vraagt.
+Via **Instellingen › Feedback sturen** opent je eigen mailprogramma, met het versienummer van de app en van je besturingssysteem al ingevuld. Je beslist zelf of je die mail verstuurt. De mail komt binnen bij iCloud Mail. Wat je stuurt, gebruiken we alleen om je te antwoorden en de app te verbeteren. Daarbij helpt een AI-assistent (Claude van Anthropic) om feedback samen te vatten en verbeteringen voor te stellen. Verder delen we het met niemand, en we wissen het als je dat vraagt.
 
 ## Je gegevens wissen
 
@@ -63,7 +63,7 @@ Stuur een mail via **Instellingen › Feedback sturen** in de app.
 
 Like any internet connection, these services see your computer's IP address; their own privacy policies apply. Blokbuddy sends them nothing else about you.
 
-**Feedback:** **Settings › Send feedback** opens your own mail app with the app and system version filled in. You decide whether to send it. It arrives at iCloud Mail and is forwarded to Gmail. We use it only to answer you and improve the app; an AI assistant (Claude by Anthropic) helps summarize feedback and suggest improvements. Otherwise we share it with no one, and delete it on request.
+**Feedback:** **Settings › Send feedback** opens your own mail app with the app and system version filled in. You decide whether to send it. It arrives at iCloud Mail. We use it only to answer you and improve the app; an AI assistant (Claude by Anthropic) helps summarize feedback and suggest improvements. Otherwise we share it with no one, and delete it on request.
 
 **Deleting your data:** remove the app, its data folder, **Documents › Blokbuddy** and, if you like, **Blokbuddy backup** in your cloud folder. Nothing of yours is stored anywhere else.
 
