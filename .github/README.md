@@ -16,7 +16,7 @@ Blokbuddy is ADHD-vriendelijk gemaakt: één ding tegelijk, weinig knoppen en ee
 
 ## Installeren op een Mac
 
-Blokbuddy is nu in een kleine testfase met vrienden. Je krijgt het installatiebestand rechtstreeks van de maker.
+**Download:** [Blokbuddy-Mac.dmg](https://github.com/edh7355/blockbuddy/releases/latest/download/Blokbuddy-Mac.dmg). Deze link geeft altijd de nieuwste versie.
 
 Het werkt op een Mac met Apple-chip (M1 of nieuwer) en macOS 12 of nieuwer.
 
