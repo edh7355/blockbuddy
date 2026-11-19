@@ -1,6 +1,6 @@
 # Privacybeleid van Blokbuddy
 
-*Laatst bijgewerkt: 15 november 2026* · [English below](#privacy-policy-english)
+*Laatst bijgewerkt: 19 november 2026* · [English below](#privacy-policy-english)
 
 **Kort gezegd:** Blokbuddy verzamelt niets over jou. Alles wat je in de app zet, blijft op je eigen computer. Er is geen account, geen server van Blokbuddy, geen reclame en er wordt niets gemeten of gevolgd.
 
@@ -40,15 +40,19 @@ Verwijder de app en daarna de gegevensmap hierboven, de map **Documenten › Blo
 
 Blokbuddy helpt je plannen, maar je officiële rooster blijft de bron. Controleer belangrijke data altijd daar.
 
-## Vragen
+## Wie is verantwoordelijk en hoe bereik je ons
 
-Stuur een mail via **Instellingen › Feedback sturen** in de app.
+Blokbuddy wordt gemaakt door het **Blokbuddy Team**: een student in België, geen bedrijf. Die is verantwoordelijk voor de enige gegevens die ons bereiken, namelijk de feedbackmails die jij stuurt.
+
+- **Contact:** [blokbuddy.team@icloud.com](mailto:blokbuddy.team@icloud.com), of via **Instellingen › Feedback sturen** in de app.
+- **Je rechten:** je mag vragen welke mails we van je hebben, ze laten verbeteren of wissen. Mail ons, dan doen we dat binnen een maand.
+- **Klacht:** ben je niet tevreden over hoe we met je gegevens omgaan, dan kun je terecht bij de Belgische [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be).
 
 ---
 
 ## Privacy policy (English)
 
-*Last updated: 15 November 2026*
+*Last updated: 19 November 2026*
 
 **In short:** Blokbuddy collects nothing about you. Everything you put in the app stays on your own computer. There is no account, no Blokbuddy server, no ads, and nothing is measured or tracked.
 
@@ -69,4 +73,4 @@ Like any internet connection, these services see your computer's IP address; the
 
 **Important:** Blokbuddy helps you plan; your official timetable remains the source. Always check important dates there.
 
-**Questions:** send a mail via **Settings › Send feedback** in the app.
+**Who is responsible, and contact:** Blokbuddy is made by the **Blokbuddy Team**, a student in Belgium, not a company, who is responsible for the only data that reaches us: the feedback mails you send. Contact: [blokbuddy.team@icloud.com](mailto:blokbuddy.team@icloud.com), or **Settings › Send feedback** in the app. You may ask which mails we have from you, and have them corrected or deleted; we do so within a month. If you are unhappy with how we handle your data, you can complain to the Belgian [Data Protection Authority](https://www.dataprotectionauthority.be).
